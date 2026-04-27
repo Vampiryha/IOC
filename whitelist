@@ -791,6 +791,7 @@ org
 /g
 /api/session
 /booking
+/help
 /list/ci-badguys.txt
 /pay
 /proxy
