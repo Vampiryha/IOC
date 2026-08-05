@@ -904,6 +904,7 @@ org
 /stats
 /info/about
 /version.json
+/upload/
 /agreement
 /dk
 /all
